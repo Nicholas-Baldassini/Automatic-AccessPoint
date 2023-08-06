@@ -10,6 +10,8 @@ On gaming consoles, some games do not offer dedicated servers to play multiplaye
 # HOW TO USE
 This setup requires two network interfaces, one for the access point and one to connect to the internet.
 
+clone this repo first.
+
 `sudo apt install hostapd dnsmasq iptables`
 
 `chmod +x enable_ap.sh`
