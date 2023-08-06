@@ -1,0 +1,10 @@
+interface=REPLACEINTERFACE
+channel=6
+ieee80211n=1
+hw_mode=g
+ssid=REPLACENAME
+wpa=2
+wpa_passphrase=REPLACEPASSWORD
+wpa_key_mgmt=WPA-PSK
+rsn_pairwise=CCMP
+auth_algs=1
